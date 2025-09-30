@@ -6,7 +6,8 @@ Muvico is a Responsive Personal and Minimal Portfolio Tailwind CSS Template. Muv
 
 We have added a Dark version with RTL supported in both Light and Dark versions.
 
-
+![image](https://github.com/Zahin-Azmaeen/Muvico-Tailwind-CSS-Personal-Portfolio-Template/blob/598d83a4d19f4f618eef9f938c702efc1ad410d5/Muvico%20Agency.jpg)
+![image](https://github.com/Zahin-Azmaeen/Muvico-Tailwind-CSS-Personal-Portfolio-Template/blob/598d83a4d19f4f618eef9f938c702efc1ad410d5/Muvico%20Agency2.jpg)
 
 Features:
 
